@@ -11,7 +11,7 @@ from mitosheet.streamlit.v1 import spreadsheet
 
 # Create a dataframe with pandas (you can pass any pandas dataframe)
 
-
+st.title("Creado por: Javier Horacio Pérez ricárdez"
 
 #dataframe = pd.DataFrame({'A': [1, 2, 3]})
 
