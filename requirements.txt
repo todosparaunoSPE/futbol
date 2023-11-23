@@ -1,1 +1,4 @@
-mitosheet
+pygwalker==0.3.15
+pandas==2.0.3
+streamlit==1.24.1
+mitosheet==0.1.530
